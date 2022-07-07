@@ -5,6 +5,7 @@ COPY requirements.txt /requirements.txt
 COPY api /api
 COPY data /data
 
+RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 # RUN pip install -e . # installing as one package!!! No need for docker
 
