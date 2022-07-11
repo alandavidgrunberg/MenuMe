@@ -7,11 +7,11 @@ Utilizes Google Cloud Platform, Cloud Vision API, Custom Search API, Translation
 <br><br>
 back end at:
 <br>
-https://alandavidgrunberg/menu_me
+https://github.com/alandavidgrunberg/menu_me
 <br>
 front end at: 
 <br>
-https://alandavidgrunberg/menu-me-app 
+https://github.com/alandavidgrunberg/menu-me-app 
 <br><br>
 originally created with:
 <br>
@@ -20,4 +20,3 @@ https://github.com/nganguyenny
 https://github.com/rubenstuiver
 <br>
 https://github.com/Pornpanthongdee
-
